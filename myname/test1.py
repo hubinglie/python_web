@@ -1,7 +1,7 @@
-a=1
-b=2
-c=a+b
-print(c)
+# a=1
+# b=2
+# c=a+b
+# print(c)
 
 def myname():
     c=0
@@ -13,5 +13,3 @@ def myname():
 
     return c
 print(myname())
-
-
