@@ -17,3 +17,7 @@ def yourname():
     return m
 print(yourname())
 
+list1=[1,2,3,4,5,6]
+dir1=set(list1)
+print(dir1)
+
